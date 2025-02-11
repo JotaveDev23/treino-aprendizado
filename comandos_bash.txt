@@ -1,0 +1,8 @@
+ls -> lista arquivos e pastas
+cd -> muda o diretório
+pwd -> caminho absoluto de onde estou
+ls -a -> apresenta arquivos ocultos
+mkdir -> cria uma pasta
+cat -> abrir arquivos editáveis
+rm -> remove arquivo
+rm -rf -> para excluir uma pasta c tudo
