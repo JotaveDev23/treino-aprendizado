@@ -1,3 +1,4 @@
+gsadhgjddhj
 ls -> lista arquivos e pastas
 cd -> muda o diretório
 pwd -> caminho absoluto de onde estou
