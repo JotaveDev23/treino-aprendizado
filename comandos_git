@@ -1,0 +1,6 @@
+git init . -> cria novo repositório git
+git status -> mostra o status da branch atual
+git add <nome arquivo> -> sinaliza o que vai entrar no checkpoint
+git commit -m "msg" -> faz commit do que estava para ser commitado
+git log -> exibe histórico de commits
+git add . -> sinaliza a pasta inteira
